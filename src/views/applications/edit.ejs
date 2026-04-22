@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit Application</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container narrow">
+      <header class="topbar">
+        <h1>Edit Application #<%= application._id %></h1>
+        <a class="btn secondary" href="/applications">Back</a>
+      </header>
+
+      <form class="form" method="POST" action="/applications/<%= application._id %>">
+        <label>
+          Applicant ID
+          <input name="applicant_id" value="<%= application.applicant_id %>" required />
+        </label>
+
+        <label>
+          Listing ID
+          <input name="listing_id" value="<%= application.listing_id %>" required />
+        </label>
+
+        <label>
+          Application Status
+          <select name="application_status">
+            <option value="pending" <%= application.application_status === 'pending' ? 'selected' : '' %>>pending</option>
+            <option value="approved" <%= application.application_status === 'approved' ? 'selected' : '' %>>approved</option>
+            <option value="declined" <%= application.application_status === 'declined' ? 'selected' : '' %>>declined</option>
+          </select>
+        </label>
+
+        <button class="btn" type="submit">Update Application</button>
+      </form>
+    </main>
+  </body>
+</html>

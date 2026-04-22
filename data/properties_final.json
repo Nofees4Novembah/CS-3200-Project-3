@@ -1,0 +1,2546 @@
+[
+  {
+    "property_id": "c481b17b-0647-4020-acdf-d67e48ee0533",
+    "user_id": "B7DE773A-9BB3-2B2B-311B-AB73FD6AA738",
+    "address": "525 3rd Avenue",
+    "city": "Stamford",
+    "state": "AZ",
+    "zip_code": "80291",
+    "units": [
+      {
+        "unit_id": "f9bbfdaf-7a63-47c6-b56a-ae0af297d293",
+        "unit_number": "C1",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "4873f456-91cd-4ca3-ae93-3411dd23fa7b",
+          "lease_start_date": "2025-01-15",
+          "lease_end_date": "2027-10-14",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "993c53e0-ba96-435e-ab5c-ffb85b6a5592",
+        "unit_number": "A20",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "be619d23-001b-423e-963e-fb3b222b30a8",
+          "lease_start_date": "2024-01-02",
+          "lease_end_date": "2026-01-15",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "cf29956d-d0ac-4671-a5a6-0a5b933d0d04",
+        "unit_number": "A18",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "94eec3ed-2248-496a-b9fb-8c39b1992810",
+          "lease_start_date": "2025-01-17",
+          "lease_end_date": "2025-10-16",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "01b4578a-233a-4880-9c8c-f470de318aa1",
+        "unit_number": "B6",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "2613fc55-42d5-4d5e-af6d-30a1ec527f82",
+          "lease_start_date": "2024-03-09",
+          "lease_end_date": "2024-03-19",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "271e6f69-d9ab-48bb-a1e7-bb1ed4118760",
+        "unit_number": "C15",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "4401f101-8eda-45e1-85c5-0c120f6c3dc0",
+          "lease_start_date": "2024-10-07",
+          "lease_end_date": "2027-05-01",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4aeace2d-3166-479b-ba16-646414adebbc",
+    "user_id": "222327C2-B44A-A27B-A48C-A25DF1E5F288",
+    "address": "8384 12th Street",
+    "city": "Miramar",
+    "state": "MS",
+    "zip_code": "26165",
+    "units": [
+      {
+        "unit_id": "f11a77f4-79fd-4302-a900-244b530aa274",
+        "unit_number": "B7",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "0620ef15-f412-4443-a926-8b3a9fb95641",
+          "lease_start_date": "2025-06-02",
+          "lease_end_date": "2026-07-31",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "cf9a8be9-255d-4898-a2a8-0983e59099c6",
+        "unit_number": "C1",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "9ea6e22a-092b-45d0-a173-2a74d9f8c5e9",
+          "lease_start_date": "2025-02-09",
+          "lease_end_date": "2025-10-23",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "a58779da-4908-4066-a494-bb52863bd75e",
+    "user_id": "2C20987B-B5B8-657A-5646-F26AE8DE8F62",
+    "address": "515 Mable Forge",
+    "city": "Feliciafield",
+    "state": "KS",
+    "zip_code": "50304-1330",
+    "units": [
+      {
+        "unit_id": "94e9cdbd-2356-4164-9f4f-d64a1d115da6",
+        "unit_number": "B19",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "8a1733d5-3e2a-44e4-bb7a-7827d13ec74f",
+          "lease_start_date": "2024-06-11",
+          "lease_end_date": "2026-12-25",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "fb925775-0551-4b7e-baa2-c86559d69ac3",
+    "user_id": "B7DE773A-9BB3-2B2B-311B-AB73FD6AA738",
+    "address": "75925 Collier Gateway",
+    "city": "Fort Claudinefort",
+    "state": "KS",
+    "zip_code": "65239",
+    "units": [
+      {
+        "unit_id": "51e38556-f3e6-4982-ad59-123c9d0eb06b",
+        "unit_number": "A3",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "9dea0656-9f1e-494b-a6c9-f90b8c05ef5b",
+          "lease_start_date": "2025-12-12",
+          "lease_end_date": "2026-07-10",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "34ebf9bc-a6b6-4fed-94ee-9ace2fcc6b6e",
+        "unit_number": "A11",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "f788e4da-d9c7-4ec6-8af3-9fa1110d3eb7",
+          "lease_start_date": "2025-11-27",
+          "lease_end_date": "2027-12-07",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6b0e175c-83b7-4b44-8877-3adddcca744c",
+        "unit_number": "A13",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "cd338df7-e59b-446a-8ed1-86a48ed970bf",
+          "lease_start_date": "2025-05-12",
+          "lease_end_date": "2027-05-10",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "bf0a9230-cfc9-4922-a71f-9197c38995f8",
+        "unit_number": "B8",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "249cc5e1-4a4d-491f-8002-48e498370198",
+          "lease_start_date": "2024-12-21",
+          "lease_end_date": "2026-08-04",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "5443bbcb-1e1d-4244-bd1d-8cb4d591d30a",
+        "unit_number": "C8",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "82b6a23a-7330-4ce8-96e1-4566b65acfba",
+          "lease_start_date": "2025-10-12",
+          "lease_end_date": "2026-12-01",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "23ea9e09-8621-480a-a2ea-1474e05a8ee2",
+    "user_id": "222327C2-B44A-A27B-A48C-A25DF1E5F288",
+    "address": "22982 Evelyn Shores",
+    "city": "Centreville",
+    "state": "OR",
+    "zip_code": "89993-4689",
+    "units": [
+      {
+        "unit_id": "ec1489c3-ef2f-4cd4-8afe-020c4373f0eb",
+        "unit_number": "B15",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "70af27a3-a097-47b9-b6f3-ac1c85c1e554",
+          "lease_start_date": "2025-11-26",
+          "lease_end_date": "2026-05-11",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "68749b33-65f6-4470-80e3-c3a56d443cbe",
+        "unit_number": "B2",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "1f69b985-3b7e-4761-8b33-fa984730ed19",
+          "lease_start_date": "2024-03-04",
+          "lease_end_date": "2025-01-24",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "0461b3d8-d719-4ee8-b6f8-237a60885bf1",
+        "unit_number": "A17",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "2e941134-6be6-4d4a-a7a0-3d63cfa40857",
+          "lease_start_date": "2025-03-19",
+          "lease_end_date": "2027-06-27",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "feb6801c-0660-4f9d-abb1-1c76fcc2f190",
+        "unit_number": "C14",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "a658255e-cc83-4f6c-a57e-a86ef58d3190",
+          "lease_start_date": "2024-03-29",
+          "lease_end_date": "2025-06-08",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "25868752-8692-4966-ba90-0dd1af57f2aa",
+    "user_id": "1748B6C7-8372-3EBE-E375-1BD256291B3A",
+    "address": "5034 Murray Manors",
+    "city": "Leuschkeboro",
+    "state": "WV",
+    "zip_code": "07482",
+    "units": [
+      {
+        "unit_id": "4f0072f4-3b86-436b-b824-2ec39e19f036",
+        "unit_number": "B12",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "0d5322a0-20a2-4e23-a5b6-b2d0b9e9174c",
+          "lease_start_date": "2026-03-18",
+          "lease_end_date": "2027-06-24",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "733d62d9-ce73-4da2-9180-e33d3deccfb7",
+        "unit_number": "C9",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "955f7bed-bd59-4119-a80c-2f82fc5fdfe0",
+          "lease_start_date": "2025-09-28",
+          "lease_end_date": "2026-02-08",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "f29c8b47-748a-4b89-bd82-48655b8745cc",
+        "unit_number": "B12",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "8111b9b0-91a7-44f6-9e75-6fe3a07ede7b",
+          "lease_start_date": "2024-03-06",
+          "lease_end_date": "2027-03-19",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "6b9df79a-3c26-45c9-82be-261ffda3354f",
+        "unit_number": "B12",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "0afe65b6-a798-4dfd-b94a-266297757569",
+          "lease_start_date": "2024-11-05",
+          "lease_end_date": "2027-11-09",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "d52a67a7-9e66-4a8c-ae8c-c3773dde083f",
+        "unit_number": "B18",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "07ef1616-dca3-4ba6-b332-c2cbcba4aa2b",
+          "lease_start_date": "2024-10-24",
+          "lease_end_date": "2026-12-10",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "aeba8f9e-dccf-40ca-a917-6fac03f55ef6",
+    "user_id": "2336C946-0B16-596B-343C-4B47C672ED6A",
+    "address": "998 S Central Avenue",
+    "city": "New Suzannefort",
+    "state": "IN",
+    "zip_code": "27675",
+    "units": [
+      {
+        "unit_id": "7a620f24-1968-42af-8d19-fe3ab4d8371d",
+        "unit_number": "B14",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "735093ad-4c9f-455b-af3d-7c2cbe2d672e",
+          "lease_start_date": "2025-09-25",
+          "lease_end_date": "2026-07-28",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6e6e83f6-b220-40a0-a3e4-4e49b207ebaa",
+        "unit_number": "A20",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "01cc43d0-72ac-418a-956d-6db980c0c0ec",
+          "lease_start_date": "2024-09-06",
+          "lease_end_date": "2027-07-20",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "0b34b64e-ce22-4dd5-aad6-6f36ebbafe36",
+    "user_id": "76E23579-E255-A30B-46D4-90309E9D55DA",
+    "address": "6288 Manor Way",
+    "city": "Lake Jayceebury",
+    "state": "IL",
+    "zip_code": "58672-5176",
+    "units": [
+      {
+        "unit_id": "ef85ae60-9298-4f58-97a2-4dcd36b52602",
+        "unit_number": "A7",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "de538054-c306-49e1-9037-6b74cd86e746",
+          "lease_start_date": "2026-05-08",
+          "lease_end_date": "2027-07-01",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "3f63e151-aaed-40be-b2d2-7e9b14d250eb",
+        "unit_number": "A17",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "33cbb2ed-63ec-4d4b-b83a-805b9ac02078",
+          "lease_start_date": "2025-09-10",
+          "lease_end_date": "2027-09-21",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "cf621218-dc5c-4ea6-a7b4-1930e5a0ca57",
+    "user_id": "6551378D-349E-265B-867A-111B97EAD413",
+    "address": "62133 Spring Street",
+    "city": "Port Lila",
+    "state": "WV",
+    "zip_code": "66135",
+    "units": [
+      {
+        "unit_id": "15bb534d-444f-480d-90fe-9383df675040",
+        "unit_number": "A10",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "549b301c-176a-4b5a-b65f-c39b841d56a8",
+          "lease_start_date": "2024-06-29",
+          "lease_end_date": "2024-12-07",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "3cc5d459-c29e-45f2-91dd-790ad5452200",
+        "unit_number": "C19",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "a6d2a419-e9d9-4970-990a-2344e7083535",
+          "lease_start_date": "2024-11-28",
+          "lease_end_date": "2025-08-20",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "d6d0835c-1219-4520-a000-a80c635e3a11",
+        "unit_number": "C14",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "8ce2ff22-ab97-4578-b6aa-cce6f16d2b5e",
+          "lease_start_date": "2024-09-11",
+          "lease_end_date": "2025-04-26",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "b06e6897-0908-4309-884e-29a0ac8ce2a8",
+    "user_id": "ECBDD8A1-4B5E-AD39-185B-C94708470BE4",
+    "address": "30973 Bogan Tunnel",
+    "city": "Santa Rosa",
+    "state": "OK",
+    "zip_code": "21234",
+    "units": [
+      {
+        "unit_id": "650f174c-41f2-4dc6-90ef-c0bf8feffb8a",
+        "unit_number": "B6",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "5cb043b6-de2a-4e7c-add1-05c9aa164d79",
+          "lease_start_date": "2026-02-04",
+          "lease_end_date": "2026-12-25",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "d51733e3-f70b-46a2-a560-527b8555d92b",
+        "unit_number": "C19",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "c58036b3-a85c-41f4-8343-c2f1cc72afcc",
+          "lease_start_date": "2024-03-10",
+          "lease_end_date": "2025-10-23",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "7fe6bb16-6dce-4684-b40f-5681d4db41a3",
+        "unit_number": "B15",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "91c87790-e057-4761-8f57-d48c8165dd37",
+          "lease_start_date": "2026-04-08",
+          "lease_end_date": "2026-11-21",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "841d8a2b-3b9a-479e-9edf-8218f4a589e8",
+    "user_id": "222327C2-B44A-A27B-A48C-A25DF1E5F288",
+    "address": "8420 S 2nd Street",
+    "city": "East Florida",
+    "state": "MI",
+    "zip_code": "37659",
+    "units": [
+      {
+        "unit_id": "be7d32ea-1c56-482a-9e8e-874b5e49fd37",
+        "unit_number": "A17",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "c6f1f7a8-7e8d-447f-b980-8b631bad9dbd",
+          "lease_start_date": "2025-06-02",
+          "lease_end_date": "2026-02-20",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "474bc079-560a-474c-810c-093314786cff",
+    "user_id": "FEB70BF5-6F6E-84C8-DF65-5D137929A525",
+    "address": "497 Glover Orchard",
+    "city": "Fort George",
+    "state": "MO",
+    "zip_code": "79640",
+    "units": [
+      {
+        "unit_id": "083d7587-dab2-4fe6-8fbd-3c3c8037d863",
+        "unit_number": "A10",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "f0dbf0b8-6d2d-43d0-a36c-3b839bf56875",
+          "lease_start_date": "2025-10-28",
+          "lease_end_date": "2027-10-22",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "a8486032-5fb6-45bf-8cee-f95156a44619",
+        "unit_number": "B1",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "ff1378d8-eeeb-4e97-97b3-d66bfe79c864",
+          "lease_start_date": "2025-07-24",
+          "lease_end_date": "2026-09-30",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "0a98f4f2-dac5-41aa-a7d5-f8c0724ec103",
+        "unit_number": "B12",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "f70ddcb4-fb7b-4481-a037-96cbe419edda",
+          "lease_start_date": "2025-01-13",
+          "lease_end_date": "2025-01-30",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4b4b9135-e58d-400d-bed6-0efd80d93488",
+    "user_id": "537D8B8C-0803-B53C-C351-B493407C7E42",
+    "address": "321 Hodkiewicz Isle",
+    "city": "North Mollyfurt",
+    "state": "NY",
+    "zip_code": "42320-8610",
+    "units": [
+      {
+        "unit_id": "e540550e-67d0-4c23-b605-5ffc50cc4e1e",
+        "unit_number": "C10",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "4a7278f2-80e5-4487-9b75-7394214cbc55",
+          "lease_start_date": "2024-08-01",
+          "lease_end_date": "2026-09-27",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "ac859bdb-093a-458d-b02c-ef2d50e610ed",
+        "unit_number": "B6",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "84a8cdf6-8075-40ee-8fd3-dd0fb670e90f",
+          "lease_start_date": "2025-07-31",
+          "lease_end_date": "2026-12-25",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4b563bab-b0b2-4915-adf6-b8bc4cdbd602",
+    "user_id": "1A4E6BBA-956F-18E2-6E20-CF2D61C0E7DE",
+    "address": "38824 King Street",
+    "city": "South Carmen",
+    "state": "UT",
+    "zip_code": "50022-6277",
+    "units": [
+      {
+        "unit_id": "b09a64be-cdcc-4f46-8882-b788ffdc294f",
+        "unit_number": "C8",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "8aa1f722-362e-4242-b831-a24ff2bc89a4",
+          "lease_start_date": "2025-05-01",
+          "lease_end_date": "2026-01-13",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "9bd2ff5c-fce9-487c-845f-dc18ad0acb95",
+        "unit_number": "A13",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "3bb5ad51-dcfa-4c41-9e2e-738360361602",
+          "lease_start_date": "2025-05-20",
+          "lease_end_date": "2027-02-16",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4a4d1414-b7e6-41c5-9d03-2f7070517d13",
+    "user_id": "B25C58C7-A5B8-2291-1EAC-5BDD08D3DECD",
+    "address": "57495 McDermott Junction",
+    "city": "Orland Park",
+    "state": "MD",
+    "zip_code": "18488-7353",
+    "units": [
+      {
+        "unit_id": "0e53b51c-09cc-4fcb-ae27-2edfc013b26a",
+        "unit_number": "C3",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "a675949c-a8de-44da-8c64-615b693c7dc9",
+          "lease_start_date": "2025-02-19",
+          "lease_end_date": "2025-09-12",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "5051d143-3ccb-4cca-9906-055cd411e611",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "289 Bell Lane",
+    "city": "Weimann-Krajcikville",
+    "state": "AR",
+    "zip_code": "95823-3806",
+    "units": [
+      {
+        "unit_id": "2f5085f3-15ac-4584-8e1c-d776df32fff4",
+        "unit_number": "A3",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "47474d1f-6bdb-45f6-a9f9-8e406de9ec44",
+          "lease_start_date": "2025-12-02",
+          "lease_end_date": "2026-12-31",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "1d95c9ff-076b-4822-b13b-d45d8f9e11a6",
+        "unit_number": "A12",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "83438faf-d918-4874-9713-5b9ee1e8581a",
+          "lease_start_date": "2025-09-05",
+          "lease_end_date": "2026-12-16",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "30e98d95-7335-4f14-9c9b-5331aadf9cc9",
+        "unit_number": "B6",
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "77274563-6c6b-49dc-97bd-cabea009d7c7",
+          "lease_start_date": "2026-05-08",
+          "lease_end_date": "2026-11-22",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "22d27f04-d850-46c3-9624-0ea17de85367",
+    "user_id": "ECBDD8A1-4B5E-AD39-185B-C94708470BE4",
+    "address": "192 Johns Point",
+    "city": "Oswaldostead",
+    "state": "FL",
+    "zip_code": "72631",
+    "units": [
+      {
+        "unit_id": "625270a5-c477-4096-bf9d-50a8be09ca3f",
+        "unit_number": "B16",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "f2c55d37-278a-4e26-94e6-7b8f0c0902b5",
+          "lease_start_date": "2026-02-08",
+          "lease_end_date": "2026-05-25",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6ed7e2be-7aef-44a0-830e-a0daece84495",
+        "unit_number": "B16",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "28a8c723-9480-4938-961d-75144f118f96",
+          "lease_start_date": "2024-06-28",
+          "lease_end_date": "2026-07-31",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "0631b207-ef79-4bf8-9912-18c3e70cebec",
+        "unit_number": "C12",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "46f38884-7b50-409c-81d3-32d6b7b7669c",
+          "lease_start_date": "2025-08-05",
+          "lease_end_date": "2026-09-01",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "cc107ce0-ca25-47f1-ba70-14fc38d8c651",
+        "unit_number": "B2",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "5fe9274a-be86-4a4f-b58a-5a63bab0f7d1",
+          "lease_start_date": "2025-12-14",
+          "lease_end_date": "2027-03-14",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "3b5f7d07-de50-4a35-b894-c02bc039cea2",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "233 Columbia Avenue",
+    "city": "Zolafield",
+    "state": "PA",
+    "zip_code": "19262",
+    "units": [
+      {
+        "unit_id": "c0e7e654-05c9-4e7f-a970-17ecd6b4a808",
+        "unit_number": "C15",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "0cf8cd2b-16c8-4618-80cb-0bfe4dc9def9",
+          "lease_start_date": "2024-01-27",
+          "lease_end_date": "2024-04-16",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "cbed5107-154e-46b9-a99a-44c1e04fcfb7",
+        "unit_number": "A20",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "dd7f9ea9-55ca-4035-9324-066bdd3af987",
+          "lease_start_date": "2025-10-12",
+          "lease_end_date": "2027-05-10",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "7c0f2139-1f8f-435d-8f51-3b17e163ed42",
+    "user_id": "537D8B8C-0803-B53C-C351-B493407C7E42",
+    "address": "5121 Bath Street",
+    "city": "Brookfort",
+    "state": "RI",
+    "zip_code": "63314-4808",
+    "units": [
+      {
+        "unit_id": "2215bccf-a056-48d9-a2ed-df2239a766fc",
+        "unit_number": "A9",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "7a786081-8fc3-4d6b-b6ad-50ce9828d060",
+          "lease_start_date": "2026-01-08",
+          "lease_end_date": "2026-04-12",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "7f3972f7-2252-4736-bc88-69217091c232",
+        "unit_number": "C7",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "867242a6-d806-4492-a07f-c3093c08d370",
+          "lease_start_date": "2026-03-24",
+          "lease_end_date": "2027-05-04",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "d5f858a1-a804-4b87-b57d-f0756794641f",
+        "unit_number": "C10",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "8dc0058e-64a9-4388-9f06-707955636c88",
+          "lease_start_date": "2025-05-30",
+          "lease_end_date": "2027-01-15",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "fe200bf5-c20b-44ee-a0d5-be61c28396f5",
+        "unit_number": "A13",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "01712429-d4fb-442e-bc38-53224441865f",
+          "lease_start_date": "2024-12-26",
+          "lease_end_date": "2025-03-15",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "5721093e-7b97-4cbd-b060-81f7e5a6497e",
+        "unit_number": "A3",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "ff453be3-c7fe-4dc7-8568-f041f256de2f",
+          "lease_start_date": "2025-09-10",
+          "lease_end_date": "2026-01-09",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "5b93ebf7-f141-45f4-b5ec-c906d9a3b1e8",
+    "user_id": "B7DE773A-9BB3-2B2B-311B-AB73FD6AA738",
+    "address": "87296 Horace Gateway",
+    "city": "Lake Nora",
+    "state": "AR",
+    "zip_code": "11544",
+    "units": [
+      {
+        "unit_id": "16658c95-286d-44b1-ac2b-0a6fb5549212",
+        "unit_number": "C13",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "e34bd426-eeea-46f4-a72d-6abd52d03612",
+          "lease_start_date": "2025-05-22",
+          "lease_end_date": "2026-10-26",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "f20575bd-d2aa-4e54-9208-0edbc4a0d64b",
+        "unit_number": "B7",
+        "bedrooms": 5,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "79859681-9163-428f-9053-7134c73ccf42",
+          "lease_start_date": "2025-10-14",
+          "lease_end_date": "2026-12-13",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "158a36b8-66d0-44a5-aff8-1e8c2151a2e8",
+        "unit_number": "B18",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "5fb62eb7-120d-451f-ab8d-d6615127a8b4",
+          "lease_start_date": "2025-08-24",
+          "lease_end_date": "2026-02-28",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "aa3cbeed-7caf-408f-ae83-8598bc55dd67",
+    "user_id": "B7DE773A-9BB3-2B2B-311B-AB73FD6AA738",
+    "address": "773 Gerhold Islands",
+    "city": "West Oracester",
+    "state": "WV",
+    "zip_code": "97697-6664",
+    "units": [
+      {
+        "unit_id": "11561b57-745d-4650-95b7-6c8818261b90",
+        "unit_number": "A7",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "f34bcbda-d86c-48dc-8588-7d3afe9318f3",
+          "lease_start_date": "2025-12-07",
+          "lease_end_date": "2027-12-24",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "61173467-744c-4d34-bf5f-2b902624682f",
+        "unit_number": "B1",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "3a139ef7-afa8-44b2-b6ea-c05099ce0110",
+          "lease_start_date": "2024-01-03",
+          "lease_end_date": "2026-01-06",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "26396d0e-b259-4bb7-8d76-1d9f0696a532",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "507 The Green",
+    "city": "Alpharetta",
+    "state": "TX",
+    "zip_code": "98865",
+    "units": [
+      {
+        "unit_id": "82ee4840-deff-49a5-94be-8009ab68c4a7",
+        "unit_number": "C3",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "b513d781-8a2a-4127-b1f5-ad7a552a880e",
+          "lease_start_date": "2026-03-16",
+          "lease_end_date": "2027-08-08",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "3af039c3-9e89-4223-99fb-b49a935939d1",
+        "unit_number": "A15",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "f5878b3e-0fd6-4fbe-9ce3-3b17e0b4024a",
+          "lease_start_date": "2024-07-29",
+          "lease_end_date": "2026-02-21",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "ec12772f-41d9-4e41-932d-2fa78c078b2a",
+        "unit_number": "A9",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "24091143-ea7d-446e-ac83-837e66fcba26",
+          "lease_start_date": "2025-05-31",
+          "lease_end_date": "2026-06-22",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "5111bbf1-f4cf-49fe-8039-aa2dfbbcfa92",
+        "unit_number": "B3",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "94a834b1-dab7-4754-a88c-01a4c5cd45ae",
+          "lease_start_date": "2024-07-18",
+          "lease_end_date": "2024-08-14",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "abbac810-6c13-42bf-8823-16f7514b6f4d",
+        "unit_number": "B13",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "465c113e-8a97-4ce4-9640-a6347034e271",
+          "lease_start_date": "2024-10-21",
+          "lease_end_date": "2026-02-15",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "ed4725c2-e0ac-454a-a721-f3d40c07b47b",
+    "user_id": "ADE5066A-C6DF-9B5A-E32C-C1283449EE33",
+    "address": "40294 Maximo Oval",
+    "city": "Rickeybury",
+    "state": "NV",
+    "zip_code": "48678",
+    "units": [
+      {
+        "unit_id": "3686992d-dbf8-418b-8e8c-f3c51f1abd11",
+        "unit_number": "C10",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "78d8ec4c-4047-4504-8c20-f13c67355b13",
+          "lease_start_date": "2026-01-21",
+          "lease_end_date": "2027-05-05",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "66762f9b-831b-4002-8285-200b68013fff",
+        "unit_number": "A7",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "a413c1e4-1b07-45a6-b940-5a3215104002",
+          "lease_start_date": "2025-07-09",
+          "lease_end_date": "2026-07-26",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "400c9051-d363-48e8-b914-67bf13f61046",
+        "unit_number": "B2",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "aeca7eca-e1c3-4432-9b8b-023572408342",
+          "lease_start_date": "2024-07-17",
+          "lease_end_date": "2027-11-01",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "a2bde125-6171-4b16-b70a-227564bce150",
+        "unit_number": "A6",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "e373889c-2772-4154-a89c-a9fed5990b4c",
+          "lease_start_date": "2024-09-06",
+          "lease_end_date": "2025-01-20",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "30f4cfb0-c5f8-4a4a-8803-de49f20a378d",
+        "unit_number": "C5",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "de0a45b9-9191-4f95-8a27-16ab9f97f53f",
+          "lease_start_date": "2024-12-11",
+          "lease_end_date": "2027-02-17",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "ac02a25a-15da-4c1c-b521-0e88d0bbe127",
+    "user_id": "6BABE59A-1207-3731-3B98-332BEE0B6EB7",
+    "address": "3460 The Crescent",
+    "city": "New Rolandoton",
+    "state": "WY",
+    "zip_code": "72929-3815",
+    "units": [
+      {
+        "unit_id": "2f8a5e83-557b-4d70-9147-2f1662e6862f",
+        "unit_number": "A5",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "19dae6d7-b7ee-4da6-8b60-7a64525f7eb0",
+          "lease_start_date": "2025-02-01",
+          "lease_end_date": "2025-04-06",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "925d4730-9e8a-4a03-a6d0-acc396cf10e3",
+    "user_id": "6BABE59A-1207-3731-3B98-332BEE0B6EB7",
+    "address": "205 Rebecca Harbor",
+    "city": "Stehrbury",
+    "state": "NE",
+    "zip_code": "85433",
+    "units": [
+      {
+        "unit_id": "501431c0-7742-47b1-8aae-2d6cfa4aa01e",
+        "unit_number": "B19",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "dbbd1265-57f6-4466-8e48-ff38c00c250c",
+          "lease_start_date": "2024-06-11",
+          "lease_end_date": "2025-02-10",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "b1f72f69-6c82-4628-9c8c-94b0e6fafd6c",
+        "unit_number": "B7",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "9d975f6c-e0bd-44c4-8416-98d8ebbb235b",
+          "lease_start_date": "2024-09-08",
+          "lease_end_date": "2027-02-10",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "bfc0765c-d424-4fb8-973c-adfb3f35d8dd",
+        "unit_number": "A13",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "dd7e3483-cd25-4252-b005-fe37f381e1c3",
+          "lease_start_date": "2026-04-27",
+          "lease_end_date": "2026-09-22",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "7b873ecf-1f5a-42e5-b725-678e2df3c185",
+    "user_id": "1748B6C7-8372-3EBE-E375-1BD256291B3A",
+    "address": "366 N Franklin Street",
+    "city": "Lake Lorene",
+    "state": "NJ",
+    "zip_code": "68508",
+    "units": [
+      {
+        "unit_id": "ed66d594-2214-4c59-9729-b3765b921cd0",
+        "unit_number": "A6",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "7d2dea39-aed1-4dec-8fa0-73192e6dde2c",
+          "lease_start_date": "2025-11-11",
+          "lease_end_date": "2027-05-04",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "6f351848-dea7-4710-9d10-ae165d602a67",
+        "unit_number": "C15",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "09254185-79e3-4217-9b4b-1dde4d16db3e",
+          "lease_start_date": "2024-12-11",
+          "lease_end_date": "2026-07-14",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "02185f3f-5f55-4e43-95ce-f1870d75165b",
+        "unit_number": "B9",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "294e22ab-c0f9-41f3-91ee-7750aa8c0a4a",
+          "lease_start_date": "2025-07-13",
+          "lease_end_date": "2026-06-15",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "35d8bd2c-da38-4968-8bcb-40196c2d9e3b",
+        "unit_number": "C19",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "9bdb6071-f301-4c20-a5ee-91487f189c8f",
+          "lease_start_date": "2025-07-06",
+          "lease_end_date": "2027-04-03",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "04d2f625-faf1-456c-b153-ca0929fb18d9",
+    "user_id": "ADE5066A-C6DF-9B5A-E32C-C1283449EE33",
+    "address": "24832 Zemlak Inlet",
+    "city": "Hawthorne",
+    "state": "WI",
+    "zip_code": "97952",
+    "units": [
+      {
+        "unit_id": "07a485d0-0186-4f10-bdf3-697737e69395",
+        "unit_number": "C10",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "29784138-c192-4536-913c-38d79669d171",
+          "lease_start_date": "2024-12-17",
+          "lease_end_date": "2025-02-21",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "39ca31d5-ba52-41f8-9d2f-d9f80a6941bd",
+        "unit_number": "C14",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "29c61efc-4f94-4c8e-9aa4-5b72775e6088",
+          "lease_start_date": "2024-09-07",
+          "lease_end_date": "2025-04-21",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "070a9108-6662-4be1-a366-621ef666eef1",
+        "unit_number": "A6",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "b450f5dd-7872-4f02-b58f-79a3b0c04dac",
+          "lease_start_date": "2025-06-14",
+          "lease_end_date": "2027-08-03",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "87e3a982-f410-49a0-8afe-7e51c36a4093",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "108 S State Street",
+    "city": "North Willis",
+    "state": "MI",
+    "zip_code": "02903",
+    "units": [
+      {
+        "unit_id": "cd6e0c33-9d58-499c-a774-b4f52ba5abf8",
+        "unit_number": "C3",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "60b0f9d4-a5ff-4e7c-8c0d-bf1de70bd6b2",
+          "lease_start_date": "2024-02-27",
+          "lease_end_date": "2026-04-06",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "fa0beb35-4312-4421-b167-95cc69b119f3",
+        "unit_number": "C14",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "2da3b3c3-afa2-427e-90d8-2175f4071d6b",
+          "lease_start_date": "2024-12-10",
+          "lease_end_date": "2027-08-08",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "45013e17-5038-4269-8692-435fb73988c5",
+        "unit_number": "C10",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "6c02bf24-d8f8-4925-a336-1bfc40351603",
+          "lease_start_date": "2025-11-25",
+          "lease_end_date": "2027-02-18",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "828c9002-d43b-449f-8472-eb34f3de9cf3",
+        "unit_number": "C1",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "a1c6e3f5-c188-44c3-a28f-19f09782c656",
+          "lease_start_date": "2026-01-10",
+          "lease_end_date": "2027-04-08",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "ddcbc959-03ee-4d37-8a5e-edf4df5f141b",
+    "user_id": "ECBDD8A1-4B5E-AD39-185B-C94708470BE4",
+    "address": "3563 Murray Heights",
+    "city": "North Romaineport",
+    "state": "WV",
+    "zip_code": "63558",
+    "units": [
+      {
+        "unit_id": "a6cad43f-24d5-4833-90e7-06aa489ad0ac",
+        "unit_number": "C11",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "30927e90-351d-48d7-af1b-5e98efe32aa5",
+          "lease_start_date": "2025-06-18",
+          "lease_end_date": "2027-10-20",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "071e6373-da79-43fd-855e-65fbb6f8599f",
+        "unit_number": "C10",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "148af8a0-eab8-4b48-ab9b-27d1b1e4ac8e",
+          "lease_start_date": "2024-09-22",
+          "lease_end_date": "2026-06-02",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "2ad5839c-2a86-44b2-983f-692917bfad83",
+        "unit_number": "B12",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "3edf50a9-0302-44e9-8453-47b47ecb6a13",
+          "lease_start_date": "2024-12-30",
+          "lease_end_date": "2026-02-07",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "7b040b2b-a6fc-41df-a605-e38977ca7bce",
+    "user_id": "6551378D-349E-265B-867A-111B97EAD413",
+    "address": "86326 Gilbert Ferry",
+    "city": "Carmichael",
+    "state": "RI",
+    "zip_code": "56377",
+    "units": [
+      {
+        "unit_id": "510aa971-2917-41f0-b48e-8b8b6321fe2d",
+        "unit_number": "A20",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "8e210933-245d-426d-b344-010eeb955e1b",
+          "lease_start_date": "2025-07-04",
+          "lease_end_date": "2025-09-24",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "fb14cf91-7798-4759-bf7a-6af0a7d1db92",
+        "unit_number": "A16",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "ec3aaf37-14c3-4f22-818b-09eb46f0eaab",
+          "lease_start_date": "2025-07-08",
+          "lease_end_date": "2027-08-31",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "b9794746-df17-4dc5-bd3e-db5ed6ea5c4d",
+        "unit_number": "B1",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "0b4ff0e1-3a10-43ba-9ee3-532615adee3e",
+          "lease_start_date": "2024-10-30",
+          "lease_end_date": "2027-10-28",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "7b1d1f06-d848-4c7a-b9b3-072c84ceac16",
+        "unit_number": "B1",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "980cc337-89c2-4323-8ed1-76aab4a6da12",
+          "lease_start_date": "2025-03-10",
+          "lease_end_date": "2027-03-27",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "ab5ed23f-6365-40db-bdd6-a01c30ed581d",
+    "user_id": "2C20987B-B5B8-657A-5646-F26AE8DE8F62",
+    "address": "879 Fern Trail",
+    "city": "Lake Hollychester",
+    "state": "CA",
+    "zip_code": "46751",
+    "units": [
+      {
+        "unit_id": "23773892-2898-429c-9511-b8a703e225d3",
+        "unit_number": "C4",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "d9a7a607-75f7-4b8f-ba44-e352926c9aa5",
+          "lease_start_date": "2024-01-01",
+          "lease_end_date": "2026-03-06",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "016bb465-5ea1-4890-b11a-886816b72b61",
+        "unit_number": "C7",
+        "bedrooms": 5,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "b0068eb1-73d5-42a6-af71-4a9616d46ee2",
+          "lease_start_date": "2025-07-20",
+          "lease_end_date": "2027-06-21",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "b070e174-69ac-49b1-8393-2fb21831ae6f",
+        "unit_number": "B18",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "b715866d-d36b-46e5-956a-962fe75cd2dd",
+          "lease_start_date": "2025-09-07",
+          "lease_end_date": "2025-10-07",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "7b73da41-d42d-4bee-81e7-f0127319f18f",
+        "unit_number": "C20",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "02b3af2b-adee-4a45-a84e-be2e2c70e4be",
+          "lease_start_date": "2026-05-25",
+          "lease_end_date": "2026-09-04",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "aed33a0d-3986-408c-a537-d556e51f83a5",
+    "user_id": "A25646E8-DA3A-49D5-F438-644EA4B6E47D",
+    "address": "96400 S 6th Street",
+    "city": "East Nancy",
+    "state": "ME",
+    "zip_code": "45095",
+    "units": [
+      {
+        "unit_id": "116c8417-9c25-4941-a107-d8429a2afea1",
+        "unit_number": "C16",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "59c54f19-b84a-4303-99b3-2b2f555295d5",
+          "lease_start_date": "2025-09-14",
+          "lease_end_date": "2027-11-23",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "8ed69b32-464c-44e1-abfa-a586a6abbdee",
+    "user_id": "82063B3B-9AC4-B057-A5D4-07A00121514C",
+    "address": "4948 Kertzmann Lodge",
+    "city": "Dearborn Heights",
+    "state": "OR",
+    "zip_code": "20007-1616",
+    "units": [
+      {
+        "unit_id": "841a1cbc-04e0-45b1-8708-35b80a7ae138",
+        "unit_number": "A1",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "ad98a2f3-41b0-47f5-ae0c-b05ddd385ff0",
+          "lease_start_date": "2024-07-23",
+          "lease_end_date": "2027-12-28",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "1654c6e4-16bd-41be-940f-39f6a3399d75",
+    "user_id": "2336C946-0B16-596B-343C-4B47C672ED6A",
+    "address": "62425 Kingsway",
+    "city": "Gabriellafort",
+    "state": "MD",
+    "zip_code": "04695",
+    "units": [
+      {
+        "unit_id": "db670f04-deed-4aa4-93d1-f34af6ded3e5",
+        "unit_number": "C12",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "af3bb736-c46d-4d52-8c37-52c7261b1559",
+          "lease_start_date": "2025-05-09",
+          "lease_end_date": "2025-08-06",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "f7a9a568-180a-4bd7-b011-00e9266d8a89",
+        "unit_number": "B18",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "d948d5c6-6a72-457b-866e-197ceceb2e89",
+          "lease_start_date": "2025-03-26",
+          "lease_end_date": "2027-10-06",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "2748fd11-1c18-4bc9-adfa-4513b6d113c2",
+        "unit_number": "C7",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "4e4c2306-d221-4365-b1ef-2a3575b3c59c",
+          "lease_start_date": "2025-02-21",
+          "lease_end_date": "2026-08-05",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "80a54d2f-7249-4509-81a4-a49ec8a7a9fd",
+        "unit_number": "A14",
+        "bedrooms": 5,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "4d52259f-4a21-48ab-b533-cf6317e99230",
+          "lease_start_date": "2025-04-14",
+          "lease_end_date": "2026-07-27",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "309dabf6-9009-458f-92e9-2ba30fc0934c",
+    "user_id": "B25C58C7-A5B8-2291-1EAC-5BDD08D3DECD",
+    "address": "81212 N Washington Street",
+    "city": "Hillsport",
+    "state": "NJ",
+    "zip_code": "00307",
+    "units": [
+      {
+        "unit_id": "f8428e2f-f28b-4bf7-b18c-f991d72045f4",
+        "unit_number": "C20",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "7b19d51f-c10b-4f0b-8024-074e77c87c14",
+          "lease_start_date": "2026-01-21",
+          "lease_end_date": "2027-12-21",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "5042fef7-4634-417f-8670-aab614c0e774",
+        "unit_number": "A3",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "084f743c-712a-4077-bc2a-3f7111e843f7",
+          "lease_start_date": "2024-10-29",
+          "lease_end_date": "2026-11-30",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "97b29379-3cd6-45ec-a8b5-d1781b3ca360",
+    "user_id": "1A4E6BBA-956F-18E2-6E20-CF2D61C0E7DE",
+    "address": "549 Jackson Avenue",
+    "city": "East Annabellstead",
+    "state": "AL",
+    "zip_code": "36205",
+    "units": [
+      {
+        "unit_id": "4b6e53a1-4642-4bf6-84bf-f78f7fef3635",
+        "unit_number": "B13",
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "30a99091-5a6e-459f-938c-a24adb8574bf",
+          "lease_start_date": "2024-10-15",
+          "lease_end_date": "2026-08-05",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "c296c058-f97b-477a-b051-d5b5883012e7",
+        "unit_number": "A8",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "6d9ce325-1880-4b53-ad14-8bea7d6853c7",
+          "lease_start_date": "2026-02-20",
+          "lease_end_date": "2027-12-12",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "d202e1b2-747c-4a73-a78f-270e975b3de1",
+        "unit_number": "B18",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "560f3763-2760-47b9-a4d5-c726e8c76474",
+          "lease_start_date": "2025-08-23",
+          "lease_end_date": "2026-07-22",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "a7bdfbe5-7178-4b4a-b43f-cc386cd23673",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "9026 Ramona Expressway",
+    "city": "Lindgrenmouth",
+    "state": "MT",
+    "zip_code": "72436-6213",
+    "units": [
+      {
+        "unit_id": "2c89be25-9d62-46ee-9ab1-3d4508037540",
+        "unit_number": "A12",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "7b1565e9-76bb-452d-ac1d-fe13a507773a",
+          "lease_start_date": "2025-08-19",
+          "lease_end_date": "2026-08-06",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6bff6912-078d-4d99-89e8-8a66cd2802c0",
+        "unit_number": "B4",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "141de107-b098-4eda-9ae3-e65299dfedfa",
+          "lease_start_date": "2025-12-22",
+          "lease_end_date": "2027-06-30",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "50778b04-1a16-46ab-a780-6dfcc587a79b",
+        "unit_number": "B19",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "6b71fe8b-9fac-4c8a-8c49-cdae1fb214c4",
+          "lease_start_date": "2025-02-10",
+          "lease_end_date": "2027-06-24",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "e160da8f-485b-43ea-a7d4-de3d53d72e89",
+    "user_id": "82063B3B-9AC4-B057-A5D4-07A00121514C",
+    "address": "572 Franecki Points",
+    "city": "Blacksburg",
+    "state": "ND",
+    "zip_code": "31619",
+    "units": [
+      {
+        "unit_id": "938b4196-c374-4ae0-86b4-6f4c797a71d3",
+        "unit_number": "B20",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "c0de4b65-d2ab-4843-a46f-ee69cf8c9aef",
+          "lease_start_date": "2024-04-07",
+          "lease_end_date": "2024-05-08",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6afb3876-c55a-445b-88f3-5b87f57cc4dc",
+        "unit_number": "A15",
+        "bedrooms": 1,
+        "bathrooms": 2,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "1150b4d6-1652-4da1-9022-ee24ce4a2e9a",
+          "lease_start_date": "2025-06-12",
+          "lease_end_date": "2027-04-29",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "996e24e3-c94b-481b-b20b-140ed966b1c8",
+        "unit_number": "B6",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "b27ae176-9410-471c-a490-1cccb041fd40",
+          "lease_start_date": "2024-10-15",
+          "lease_end_date": "2026-12-23",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "1dc0ffa2-9559-4059-aa3d-3c9bfa00a6e7",
+        "unit_number": "C6",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "985c86a1-b37e-4bd8-8742-58a11493b761",
+          "lease_start_date": "2024-01-26",
+          "lease_end_date": "2024-11-22",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "fe829fd3-f73d-4970-9e1a-4fafe3339386",
+        "unit_number": "C15",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "5844874c-c9ec-4037-95bb-6ad666906a2b",
+          "lease_start_date": "2025-10-19",
+          "lease_end_date": "2027-01-08",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "39d35240-c75e-4f78-a671-2ed8d056bb48",
+    "user_id": "BEAA9EA8-9EB5-F3E6-9D46-DBEB51A7D27E",
+    "address": "984 Wanda Views",
+    "city": "Hammesview",
+    "state": "IL",
+    "zip_code": "25166",
+    "units": [
+      {
+        "unit_id": "300f9149-68b0-4a19-9a60-a3520f85eb38",
+        "unit_number": "B20",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "0cabe532-8d6e-4f86-a054-e545f03458b2",
+          "lease_start_date": "2024-08-31",
+          "lease_end_date": "2025-05-30",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "89053160-06c7-458c-a7a8-66240c316bed",
+        "unit_number": "A15",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "4a081b08-1d31-4892-b471-8cce3f4d6148",
+          "lease_start_date": "2026-04-26",
+          "lease_end_date": "2027-12-22",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "0afaea03-00e7-425b-8cbe-b4797504689e",
+        "unit_number": "B8",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "c8ff0dc4-869f-4a7c-a595-418dbed9fbe2",
+          "lease_start_date": "2025-09-17",
+          "lease_end_date": "2025-12-08",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "6a5f0350-0579-47a0-aa69-f7028a060f4a",
+        "unit_number": "A5",
+        "bedrooms": 5,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "b3d35032-c861-4133-90ad-cb258650921b",
+          "lease_start_date": "2026-02-22",
+          "lease_end_date": "2026-11-21",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "cafe56f1-10af-4102-ba88-2de42474461c",
+    "user_id": "CEC4BB64-A7A9-3C2E-795C-48937E360A42",
+    "address": "14483 N Lincoln Street",
+    "city": "Oliverstad",
+    "state": "UT",
+    "zip_code": "41980-3076",
+    "units": [
+      {
+        "unit_id": "423abd3b-093e-475d-b8a5-44ad03cd2c84",
+        "unit_number": "C3",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "0b2fc5f7-3225-4668-99c0-54f2410fcfd5",
+          "lease_start_date": "2025-10-12",
+          "lease_end_date": "2027-01-16",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "d7b844a9-3bef-4bfb-9de1-6184715323cb",
+        "unit_number": "A12",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "73a7832c-1249-4078-ad6e-4764d232637c",
+          "lease_start_date": "2025-08-03",
+          "lease_end_date": "2026-03-30",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "b35870f0-32d3-46bc-aebd-ea8fed0ad4ff",
+        "unit_number": "A16",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "9e827526-7c60-42b7-83b8-77fd8e65143e",
+          "lease_start_date": "2024-04-18",
+          "lease_end_date": "2027-05-21",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "e80a7147-eef1-4536-99bc-ac1aa681e008",
+        "unit_number": "A1",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "fb976a4f-e019-45a1-9afb-ba530f77fc8e",
+          "lease_start_date": "2025-03-14",
+          "lease_end_date": "2026-07-06",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "49129eaa-11be-4cb8-9408-fc005ec3608a",
+    "user_id": "6551378D-349E-265B-867A-111B97EAD413",
+    "address": "981 Nasir Inlet",
+    "city": "Spring Hill",
+    "state": "UT",
+    "zip_code": "25386",
+    "units": [
+      {
+        "unit_id": "05656a89-501f-4c7d-8ec1-3eb6ecc72401",
+        "unit_number": "B8",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "1493184e-2c5f-4c0c-8c44-57d76213935e",
+          "lease_start_date": "2025-12-03",
+          "lease_end_date": "2027-09-17",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "107e920a-9ef6-4858-a3f0-449ea086cff9",
+        "unit_number": "A19",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "95ce9421-237e-4dc4-83b3-a306912a5cf5",
+          "lease_start_date": "2024-08-12",
+          "lease_end_date": "2025-10-27",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4f5631f5-0b96-4aeb-af72-a9e9973bd300",
+    "user_id": "2336C946-0B16-596B-343C-4B47C672ED6A",
+    "address": "67650 Beatty Via",
+    "city": "Westhaven",
+    "state": "ID",
+    "zip_code": "66082",
+    "units": [
+      {
+        "unit_id": "8bcc2d9d-3b71-4883-b799-89bd28fdf440",
+        "unit_number": "C14",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "9bab8d9b-59a6-4dd3-836e-7ab33521a23d",
+          "lease_start_date": "2024-11-25",
+          "lease_end_date": "2027-09-15",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "cad6f7dc-da11-4827-82e5-a8b81c73613a",
+        "unit_number": "A19",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "68f840f1-d9af-4fa8-8f02-c2aa48f77471",
+          "lease_start_date": "2026-03-12",
+          "lease_end_date": "2026-12-05",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "5b5ceb38-ebf7-4ead-9603-da8e74826997",
+    "user_id": "FEB70BF5-6F6E-84C8-DF65-5D137929A525",
+    "address": "3814 Howell Circles",
+    "city": "West Elody",
+    "state": "CA",
+    "zip_code": "80054-0086",
+    "units": [
+      {
+        "unit_id": "c6785679-1020-4ebb-81d3-d4466fda8876",
+        "unit_number": "C18",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "f0f58ba5-600c-4943-9338-1cebacf23252",
+          "lease_start_date": "2025-07-20",
+          "lease_end_date": "2027-03-17",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "2c9b4ae6-f521-424b-8eea-7ea0f25a4a27",
+        "unit_number": "A14",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "e00ecd40-967a-470b-b2ef-c281c4341aec",
+          "lease_start_date": "2024-08-21",
+          "lease_end_date": "2024-12-20",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "9e26a5ef-1d53-414f-bc7f-309a93eb8732",
+        "unit_number": "B7",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "dae24e9f-e5b0-47e4-8435-c22bb22c290a",
+          "lease_start_date": "2026-05-04",
+          "lease_end_date": "2027-05-16",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "28ec356d-f2d9-4f73-97d3-8b5f8af3ca70",
+        "unit_number": "A2",
+        "bedrooms": 1,
+        "bathrooms": 2.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "66e69914-7599-408f-b08a-605f436b9356",
+          "lease_start_date": "2025-09-24",
+          "lease_end_date": "2026-09-04",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "a13e16ef-1afc-439b-8e7e-9bc382c6edd6",
+    "user_id": "2C20987B-B5B8-657A-5646-F26AE8DE8F62",
+    "address": "93570 Sipes Rapid",
+    "city": "Donnellychester",
+    "state": "NJ",
+    "zip_code": "54771-8404",
+    "units": [
+      {
+        "unit_id": "4da7bbfb-371c-406e-9044-623bed712879",
+        "unit_number": "A7",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "condo",
+        "current_lease": {
+          "lease_id": "9e99686b-3173-4b7d-8d57-c38829865849",
+          "lease_start_date": "2025-05-16",
+          "lease_end_date": "2027-08-24",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "fa61ac61-0b80-49ef-9597-3bded84f2b9f",
+        "unit_number": "A16",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "0ab7d03d-a80c-4be2-aa81-20da64cd48a7",
+          "lease_start_date": "2025-02-25",
+          "lease_end_date": "2026-05-15",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      },
+      {
+        "unit_id": "efe56547-08f1-4b04-8deb-c7a8b64f4153",
+        "unit_number": "B2",
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "a2f17393-3574-49de-bea3-c96cb02a5898",
+          "lease_start_date": "2025-07-28",
+          "lease_end_date": "2027-02-17",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "acd1a2f0-afcb-4937-8d48-84e802371cd7",
+        "unit_number": "A19",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "a0caa1b2-6996-437e-8a05-86b97f86f6ad",
+          "lease_start_date": "2024-12-01",
+          "lease_end_date": "2026-12-04",
+          "sublease_allowed": true,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "5d8b9d69-9486-4884-bb26-9135cdca5c3d",
+        "unit_number": "B6",
+        "bedrooms": 1,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "d6c9c422-5278-497f-b9d7-6c55c3b0c98c",
+          "lease_start_date": "2026-01-23",
+          "lease_end_date": "2027-12-27",
+          "sublease_allowed": false,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "6335bfd1-0c70-42a6-82de-48afc35b5542",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "566 Sandrine Gateway",
+    "city": "West Wilmer",
+    "state": "MA",
+    "zip_code": "28437-0772",
+    "units": [
+      {
+        "unit_id": "cc8c8807-aa58-44f3-a17f-e45f05407bcf",
+        "unit_number": "A20",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "9b46b581-7aa7-4dba-b13e-9e7632922936",
+          "lease_start_date": "2024-03-23",
+          "lease_end_date": "2024-04-14",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "2ea4e048-4cf2-4684-a581-9d0b3c521169",
+    "user_id": "82063B3B-9AC4-B057-A5D4-07A00121514C",
+    "address": "13448 Purdy Brooks",
+    "city": "Port Shanefurt",
+    "state": "MT",
+    "zip_code": "03468-1654",
+    "units": [
+      {
+        "unit_id": "2d758f3b-bea6-4d7c-b08a-83968cd74f4d",
+        "unit_number": "C4",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "3fe79956-c76d-4e95-a5c0-0cf11f94c9c5",
+          "lease_start_date": "2025-04-09",
+          "lease_end_date": "2026-09-25",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "dd9893fc-6068-4bb9-8cb2-70885f95eeef",
+        "unit_number": "B20",
+        "bedrooms": 1,
+        "bathrooms": 3,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "57128533-4a59-45a4-8abd-4759dfad05fb",
+          "lease_start_date": "2025-08-08",
+          "lease_end_date": "2026-07-05",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "461760ab-d969-4c27-b522-495febb98338",
+        "unit_number": "C20",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "662c569d-f15f-4e4c-b363-f12c18da24e6",
+          "lease_start_date": "2024-04-05",
+          "lease_end_date": "2024-08-09",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      },
+      {
+        "unit_id": "bb72b15c-91bc-4dac-8631-9eb2afcb0ab6",
+        "unit_number": "C6",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "59b8c807-5d38-461a-bcb8-b656ce51b9f7",
+          "lease_start_date": "2026-03-23",
+          "lease_end_date": "2027-02-24",
+          "sublease_allowed": true,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "0fb0f7f8-dd5a-4a11-a592-d1796d0f058f",
+    "user_id": "BEAA9EA8-9EB5-F3E6-9D46-DBEB51A7D27E",
+    "address": "7493 Hilll Circle",
+    "city": "Grantburgh",
+    "state": "KS",
+    "zip_code": "94369",
+    "units": [
+      {
+        "unit_id": "22c4adce-4daf-42be-8114-f54dfeca6e53",
+        "unit_number": "A1",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "unit_type": "townhouse",
+        "current_lease": {
+          "lease_id": "28922950-e38e-408d-9ea6-b7320f7ee062",
+          "lease_start_date": "2026-04-06",
+          "lease_end_date": "2026-11-12",
+          "sublease_allowed": false,
+          "lease_status": "active"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4559f3ed-4dab-4cfe-934c-b968786bafbf",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "165 Kulas Centers",
+    "city": "Sammamish",
+    "state": "LA",
+    "zip_code": "01777",
+    "units": [
+      {
+        "unit_id": "486243a8-1f3e-48ea-be57-0dc562ef36fa",
+        "unit_number": "C17",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "9fdbacb9-1b8a-412b-a63c-3969b56aa8e8",
+          "lease_start_date": "2024-03-13",
+          "lease_end_date": "2025-12-14",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "f2c8376b-7fb3-4e3d-99e7-1a1fbf814847",
+    "user_id": "B7DE773A-9BB3-2B2B-311B-AB73FD6AA738",
+    "address": "703 Jacobson Lights",
+    "city": "Glovershire",
+    "state": "AR",
+    "zip_code": "14793",
+    "units": [
+      {
+        "unit_id": "d0cafb43-73c1-4d25-97f4-5e3c9b8a6b80",
+        "unit_number": "A11",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "unit_type": "apartment",
+        "current_lease": {
+          "lease_id": "884e2a39-973f-48b5-980d-931061cf82ae",
+          "lease_start_date": "2024-01-16",
+          "lease_end_date": "2026-04-25",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      },
+      {
+        "unit_id": "210b5c18-06d0-49d1-b39f-004791ef156a",
+        "unit_number": "C7",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "e29f6a13-a090-42cf-a555-3a64791aa546",
+          "lease_start_date": "2026-02-02",
+          "lease_end_date": "2027-11-05",
+          "sublease_allowed": false,
+          "lease_status": "expired"
+        }
+      }
+    ]
+  },
+  {
+    "property_id": "4a9ae67b-dac0-458d-9ef4-b0b19a8b94e7",
+    "user_id": "E38E2255-0AA3-7C66-3B9E-D426E2DED5ED",
+    "address": "5855 N 2nd Street",
+    "city": "Gary",
+    "state": "ME",
+    "zip_code": "60192",
+    "units": [
+      {
+        "unit_id": "1e054735-b0bb-411d-bca9-09435a2f1459",
+        "unit_number": "C8",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "unit_type": "studio",
+        "current_lease": {
+          "lease_id": "1e42e655-e9db-4a0e-8e4b-7196a32d8527",
+          "lease_start_date": "2025-06-17",
+          "lease_end_date": "2026-01-25",
+          "sublease_allowed": true,
+          "lease_status": "pending"
+        }
+      }
+    ]
+  }
+]

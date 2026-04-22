@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landlord Review Dashboard</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="topbar">
+        <h1>Landlord Application Review</h1>
+        <a class="btn" href="/applications/new">+ New Application</a>
+      </header>
+
+      <% if (!applications.length) { %>
+      <section class="empty-state">
+        <h2>No applications yet</h2>
+        <p>Create your first tenant application to begin review.</p>
+      </section>
+      <% } else { %>
+      <section class="grid">
+        <% applications.forEach((application) => { %>
+        <article class="card">
+          <div class="card-head">
+            <h2 class="card-title"><%= application.applicant_id %></h2>
+            <span class="status <%= application.application_status %>"><%= application.application_status %></span>
+          </div>
+          <p><strong>Listing:</strong> <%= application.listing_id %></p>
+          <p class="meta">Applied: <%= application.applied_at %></p>
+
+          <div class="actions">
+            <a class="btn secondary" href="/applications/<%= application._id %>/edit">Edit</a>
+            <form method="POST" action="/applications/<%= application._id %>/delete">
+              <button class="btn danger" type="submit">Delete</button>
+            </form>
+          </div>
+        </article>
+        <% }) %>
+      </section>
+      <% } %>
+    </main>
+  </body>
+</html>

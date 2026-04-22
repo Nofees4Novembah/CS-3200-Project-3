@@ -1,0 +1,20 @@
+{
+  "name": "landlord-application-review",
+  "version": "1.0.0",
+  "description": "Node + Express + Redis app for landlords reviewing rental applications",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.17.0",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>New Application</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container narrow">
+      <header class="topbar">
+        <h1>Create Tenant Application</h1>
+        <a class="btn secondary" href="/applications">Back</a>
+      </header>
+
+      <form class="form" method="POST" action="/applications">
+        <label>
+          Applicant ID
+          <input name="applicant_id" required />
+        </label>
+
+        <label>
+          Listing ID
+          <input name="listing_id" required />
+        </label>
+
+        <label>
+          Application Status
+          <select name="application_status">
+            <option value="pending">pending</option>
+            <option value="approved">approved</option>
+            <option value="declined">declined</option>
+          </select>
+        </label>
+
+        <button class="btn" type="submit">Create Application</button>
+      </form>
+    </main>
+  </body>
+</html>

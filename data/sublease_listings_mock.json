@@ -1,0 +1,302 @@
+[
+  {
+    "listing_id": "e74865b1-0eae-4e31-8817-ba7ca2f46748",
+    "lease_id": "6d9ce325-1880-4b53-ad14-8bea7d6853c7",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 927.85,
+    "listing_status": "closed",
+    "available-from": "2025-06-04",
+    "available-to": "2025-11-04",
+    "listing_created_at": "2024-02-12"
+  },
+  {
+    "listing_id": "f1e6b7e6-a04f-43fc-93d0-c1c27f17576d",
+    "lease_id": "7b19d51f-c10b-4f0b-8024-074e77c87c14",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 3068.65,
+    "listing_status": "open",
+    "available-from": "2025-07-19",
+    "available-to": "2025-09-18",
+    "listing_created_at": "2024-09-30"
+  },
+  {
+    "listing_id": "aaf7ca46-c48f-4240-a4e1-80d05b973977",
+    "lease_id": "01712429-d4fb-442e-bc38-53224441865f",
+    "poster_id": "07C1AB8E-C8B4-9563-E6AE-68DA31A18C53",
+    "listing_price": 3593.69,
+    "listing_status": "pending",
+    "available-from": "2025-07-09",
+    "available-to": "2025-10-21",
+    "listing_created_at": "2024-09-22"
+  },
+  {
+    "listing_id": "533cfcd4-1e12-414e-8ace-5ed27db0d1b0",
+    "lease_id": "662c569d-f15f-4e4c-b363-f12c18da24e6",
+    "poster_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "listing_price": 740.39,
+    "listing_status": "open",
+    "available-from": "2025-08-29",
+    "available-to": "2027-09-15",
+    "listing_created_at": "2024-11-03"
+  },
+  {
+    "listing_id": "632c1870-2861-42bc-b5cb-2d0989c7d5d0",
+    "lease_id": "2e941134-6be6-4d4a-a7a0-3d63cfa40857",
+    "poster_id": "2E62D15F-202A-9639-6518-6D8C828E8FD7",
+    "listing_price": 1173.79,
+    "listing_status": "closed",
+    "available-from": "2026-02-11",
+    "available-to": "2027-01-21",
+    "listing_created_at": "2025-06-05"
+  },
+  {
+    "listing_id": "2112bb58-ba47-4905-bc06-99fb22dcb63c",
+    "lease_id": "82b6a23a-7330-4ce8-96e1-4566b65acfba",
+    "poster_id": "3DC1411B-8B6A-8C7A-3B27-64B288B583D7",
+    "listing_price": 3793.87,
+    "listing_status": "open",
+    "available-from": "2026-01-08",
+    "available-to": "2026-11-05",
+    "listing_created_at": "2024-08-14"
+  },
+  {
+    "listing_id": "c735a925-7c0d-4782-9022-e92e6f7417b9",
+    "lease_id": "f5878b3e-0fd6-4fbe-9ce3-3b17e0b4024a",
+    "poster_id": "97D987F5-EDD1-E469-CDC4-36820E05C1D4",
+    "listing_price": 3941.79,
+    "listing_status": "open",
+    "available-from": "2025-03-02",
+    "available-to": "2027-10-25",
+    "listing_created_at": "2025-02-10"
+  },
+  {
+    "listing_id": "197c3261-6145-40a6-ba65-860633420c70",
+    "lease_id": "30a99091-5a6e-459f-938c-a24adb8574bf",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 3915.85,
+    "listing_status": "open",
+    "available-from": "2026-04-28",
+    "available-to": "2027-11-12",
+    "listing_created_at": "2024-01-14"
+  },
+  {
+    "listing_id": "81de4cc9-7f6e-453d-be2e-001bf80e3e97",
+    "lease_id": "549b301c-176a-4b5a-b65f-c39b841d56a8",
+    "poster_id": "3DC1411B-8B6A-8C7A-3B27-64B288B583D7",
+    "listing_price": 2793.69,
+    "listing_status": "pending",
+    "available-from": "2025-01-22",
+    "available-to": "2026-05-05",
+    "listing_created_at": "2024-05-14"
+  },
+  {
+    "listing_id": "b3b170f2-85c4-4f61-9f28-feffff9d4a8e",
+    "lease_id": "5fe9274a-be86-4a4f-b58a-5a63bab0f7d1",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 3163.99,
+    "listing_status": "open",
+    "available-from": "2025-11-05",
+    "available-to": "2026-09-23",
+    "listing_created_at": "2025-02-22"
+  },
+  {
+    "listing_id": "7104375b-fc44-474e-97bb-c861f2dffb2c",
+    "lease_id": "4a7278f2-80e5-4487-9b75-7394214cbc55",
+    "poster_id": "07C1AB8E-C8B4-9563-E6AE-68DA31A18C53",
+    "listing_price": 3124.85,
+    "listing_status": "open",
+    "available-from": "2026-02-13",
+    "available-to": "2026-12-10",
+    "listing_created_at": "2024-11-29"
+  },
+  {
+    "listing_id": "52e3253f-50c4-47e3-80ff-2413608a3aeb",
+    "lease_id": "9e99686b-3173-4b7d-8d57-c38829865849",
+    "poster_id": "07C1AB8E-C8B4-9563-E6AE-68DA31A18C53",
+    "listing_price": 3068.69,
+    "listing_status": "closed",
+    "available-from": "2026-03-14",
+    "available-to": "2026-04-05",
+    "listing_created_at": "2024-08-01"
+  },
+  {
+    "listing_id": "b1f0ef9f-725a-427c-a253-0138c2fca4e8",
+    "lease_id": "2da3b3c3-afa2-427e-90d8-2175f4071d6b",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 1166.39,
+    "listing_status": "open",
+    "available-from": "2025-10-01",
+    "available-to": "2027-01-25",
+    "listing_created_at": "2025-03-09"
+  },
+  {
+    "listing_id": "b90dd353-d56e-4296-a6b0-93bfb47bf044",
+    "lease_id": "c58036b3-a85c-41f4-8343-c2f1cc72afcc",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 1491.65,
+    "listing_status": "pending",
+    "available-from": "2025-12-27",
+    "available-to": "2027-03-25",
+    "listing_created_at": "2024-12-14"
+  },
+  {
+    "listing_id": "e622a1b6-b0eb-409c-80d7-b83944eef78c",
+    "lease_id": "8dc0058e-64a9-4388-9f06-707955636c88",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 3493.25,
+    "listing_status": "closed",
+    "available-from": "2026-02-26",
+    "available-to": "2026-08-19",
+    "listing_created_at": "2025-11-09"
+  },
+  {
+    "listing_id": "badaff7a-ccb5-46df-99b4-cf002ecd4e2b",
+    "lease_id": "0afe65b6-a798-4dfd-b94a-266297757569",
+    "poster_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "listing_price": 3393.79,
+    "listing_status": "closed",
+    "available-from": "2025-10-12",
+    "available-to": "2027-02-02",
+    "listing_created_at": "2025-01-29"
+  },
+  {
+    "listing_id": "2cd9efbb-dff9-441d-b50c-c47e841f7907",
+    "lease_id": "9ea6e22a-092b-45d0-a173-2a74d9f8c5e9",
+    "poster_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "listing_price": 2633.99,
+    "listing_status": "pending",
+    "available-from": "2025-07-18",
+    "available-to": "2027-03-09",
+    "listing_created_at": "2024-01-22"
+  },
+  {
+    "listing_id": "e5006742-8ad6-410e-b051-2de8fd31f862",
+    "lease_id": "0afe65b6-a798-4dfd-b94a-266297757569",
+    "poster_id": "AB27D61E-581C-3587-E12A-C301D9529596",
+    "listing_price": 1372.64,
+    "listing_status": "pending",
+    "available-from": "2026-02-18",
+    "available-to": "2027-09-11",
+    "listing_created_at": "2025-07-26"
+  },
+  {
+    "listing_id": "a692f648-3042-4428-8077-4d46886234d0",
+    "lease_id": "91c87790-e057-4761-8f57-d48c8165dd37",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 1170.8,
+    "listing_status": "closed",
+    "available-from": "2025-03-12",
+    "available-to": "2025-09-08",
+    "listing_created_at": "2025-02-01"
+  },
+  {
+    "listing_id": "80ee4e04-5063-4900-bbf7-54a737ce7411",
+    "lease_id": "a658255e-cc83-4f6c-a57e-a86ef58d3190",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 1927.05,
+    "listing_status": "pending",
+    "available-from": "2025-02-01",
+    "available-to": "2026-02-10",
+    "listing_created_at": "2024-07-16"
+  },
+  {
+    "listing_id": "80cffd5c-bce1-45e0-8195-8ef0209498f9",
+    "lease_id": "0620ef15-f412-4443-a926-8b3a9fb95641",
+    "poster_id": "07C1AB8E-C8B4-9563-E6AE-68DA31A18C53",
+    "listing_price": 3931.75,
+    "listing_status": "open",
+    "available-from": "2026-03-13",
+    "available-to": "2026-06-16",
+    "listing_created_at": "2025-11-05"
+  },
+  {
+    "listing_id": "d8abd120-f8d1-4d88-84f5-2574295d24a8",
+    "lease_id": "662c569d-f15f-4e4c-b363-f12c18da24e6",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 2943,
+    "listing_status": "open",
+    "available-from": "2025-11-03",
+    "available-to": "2026-09-24",
+    "listing_created_at": "2024-11-17"
+  },
+  {
+    "listing_id": "d118fb64-5b5f-48b2-ad8f-e52dff03ef74",
+    "lease_id": "0ab7d03d-a80c-4be2-aa81-20da64cd48a7",
+    "poster_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "listing_price": 2950.45,
+    "listing_status": "pending",
+    "available-from": "2026-06-09",
+    "available-to": "2026-07-24",
+    "listing_created_at": "2025-12-14"
+  },
+  {
+    "listing_id": "45a054da-cc2d-443f-9c20-7eae730874c7",
+    "lease_id": "5fe9274a-be86-4a4f-b58a-5a63bab0f7d1",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 2156.35,
+    "listing_status": "open",
+    "available-from": "2025-04-07",
+    "available-to": "2026-04-28",
+    "listing_created_at": "2024-10-26"
+  },
+  {
+    "listing_id": "c9f0a8df-cf67-40f8-bb76-36ce5200a3cc",
+    "lease_id": "f5878b3e-0fd6-4fbe-9ce3-3b17e0b4024a",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 3118.19,
+    "listing_status": "closed",
+    "available-from": "2025-06-08",
+    "available-to": "2025-11-05",
+    "listing_created_at": "2025-05-11"
+  },
+  {
+    "listing_id": "e13f040f-f07e-4f68-9410-944fe9622005",
+    "lease_id": "94eec3ed-2248-496a-b9fb-8c39b1992810",
+    "poster_id": "B6E09697-1ED6-2DDD-1DB8-463D64846E01",
+    "listing_price": 2999.29,
+    "listing_status": "open",
+    "available-from": "2026-02-20",
+    "available-to": "2027-04-09",
+    "listing_created_at": "2025-09-27"
+  },
+  {
+    "listing_id": "d25c47f4-024a-40ac-a779-35b335bea078",
+    "lease_id": "8a1733d5-3e2a-44e4-bb7a-7827d13ec74f",
+    "poster_id": "15D2EECC-9A3A-EABC-CBD0-D05718A6D753",
+    "listing_price": 1181.55,
+    "listing_status": "pending",
+    "available-from": "2026-05-11",
+    "available-to": "2026-08-03",
+    "listing_created_at": "2025-05-06"
+  },
+  {
+    "listing_id": "db18a105-6a31-443d-8d24-1f18c59c550a",
+    "lease_id": "a658255e-cc83-4f6c-a57e-a86ef58d3190",
+    "poster_id": "97D987F5-EDD1-E469-CDC4-36820E05C1D4",
+    "listing_price": 769.29,
+    "listing_status": "pending",
+    "available-from": "2026-06-19",
+    "available-to": "2026-09-12",
+    "listing_created_at": "2024-07-06"
+  },
+  {
+    "listing_id": "19ae4895-1c87-4999-ba69-7a03b2136681",
+    "lease_id": "ff453be3-c7fe-4dc7-8568-f041f256de2f",
+    "poster_id": "3DC1411B-8B6A-8C7A-3B27-64B288B583D7",
+    "listing_price": 3473.75,
+    "listing_status": "pending",
+    "available-from": "2026-02-22",
+    "available-to": "2027-03-11",
+    "listing_created_at": "2025-06-21"
+  },
+  {
+    "listing_id": "118adb91-8e70-41c6-b904-25663801e2e5",
+    "lease_id": "0ab7d03d-a80c-4be2-aa81-20da64cd48a7",
+    "poster_id": "3DC1411B-8B6A-8C7A-3B27-64B288B583D7",
+    "listing_price": 1348.49,
+    "listing_status": "open",
+    "available-from": "2026-05-14",
+    "available-to": "2026-10-20",
+    "listing_created_at": "2024-08-04"
+  }
+]

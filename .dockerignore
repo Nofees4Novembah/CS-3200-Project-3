@@ -1,0 +1,4 @@
+.git
+.DS_Store
+src/node_modules/
+src/npm-debug.log

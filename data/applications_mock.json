@@ -1,0 +1,373 @@
+[
+  {
+    "_id": "fc3890da-f6e3-42c1-ba0b-5e82f1e78de0",
+    "listing_id": "a692f648-3042-4428-8077-4d46886234d0",
+    "applicant_id": "AB27D61E-581C-3587-E12A-C301D9529596",
+    "applied_at": "2026-01-12",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "c4522724-12d6-4812-b913-d26c47559fa2",
+      "start_date": "2026-01-30",
+      "end_date": "2026-10-06",
+      "contract_status": "active",
+      "created_at": "2026-01-14"
+    }
+  },
+  {
+    "_id": "ef88c6f4-47cd-4e58-b49a-682d1f320948",
+    "listing_id": "52e3253f-50c4-47e3-80ff-2413608a3aeb",
+    "applicant_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "applied_at": "2026-02-04",
+    "application_status": "declined"
+  },
+  {
+    "_id": "ad1733ce-db1e-4a9e-a686-c9bc8153a2df",
+    "listing_id": "a692f648-3042-4428-8077-4d46886234d0",
+    "applicant_id": "D2A3C412-3AB6-451C-DD42-638456C0BD0D",
+    "applied_at": "2026-02-28",
+    "application_status": "declined"
+  },
+  {
+    "_id": "fc120d70-81ad-4e01-8d9a-720d30f24f8f",
+    "listing_id": "d118fb64-5b5f-48b2-ad8f-e52dff03ef74",
+    "applicant_id": "2AE7C59A-D1C2-297B-83CE-9FE51D16B928",
+    "applied_at": "2025-02-26",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "eda83577-44b1-4aec-9906-88e919868186",
+      "start_date": "2025-07-14",
+      "end_date": "2026-07-24",
+      "contract_status": "terminated",
+      "created_at": "2025-05-25"
+    }
+  },
+  {
+    "_id": "07735d26-c679-45fa-b4c3-ee7e450861a9",
+    "listing_id": "e622a1b6-b0eb-409c-80d7-b83944eef78c",
+    "applicant_id": "DC4944E2-192F-9C51-6515-936D549F3118",
+    "applied_at": "2026-01-20",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "f102884c-629a-4a07-b38d-a981fb70125c",
+      "start_date": "2026-07-07",
+      "end_date": "2026-08-12",
+      "contract_status": "expired",
+      "created_at": "2026-02-12"
+    }
+  },
+  {
+    "_id": "05c6701b-8afb-47c0-80ab-ee9e2e9055bd",
+    "listing_id": "c9f0a8df-cf67-40f8-bb76-36ce5200a3cc",
+    "applicant_id": "DDB1E9E5-89CC-FEB4-E5B3-284E25C190E9",
+    "applied_at": "2026-09-15",
+    "application_status": "pending"
+  },
+  {
+    "_id": "2ab453d3-a592-4b15-93c9-973f24532e29",
+    "listing_id": "d118fb64-5b5f-48b2-ad8f-e52dff03ef74",
+    "applicant_id": "A92235A1-6FAF-48ED-3846-FB1B5ED62CDA",
+    "applied_at": "2026-07-22",
+    "application_status": "declined"
+  },
+  {
+    "_id": "3abb6b71-b4e1-4ccd-9651-39d267db2ead",
+    "listing_id": "e74865b1-0eae-4e31-8817-ba7ca2f46748",
+    "applicant_id": "2E56A6A8-8029-0A38-B110-7266E432B19B",
+    "applied_at": "2026-10-21",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "b7b67b7a-3266-4e3d-903e-08f22ddf0b30",
+      "start_date": "2026-11-06",
+      "end_date": "2028-01-26",
+      "contract_status": "active",
+      "created_at": "2026-11-05"
+    }
+  },
+  {
+    "_id": "c141631c-77cd-4035-bc45-24bbfaf51eb6",
+    "listing_id": "d25c47f4-024a-40ac-a779-35b335bea078",
+    "applicant_id": "3DC1411B-8B6A-8C7A-3B27-64B288B583D7",
+    "applied_at": "2026-06-10",
+    "application_status": "pending"
+  },
+  {
+    "_id": "016b43a4-7d27-4f86-9736-006570eb32c0",
+    "listing_id": "2112bb58-ba47-4905-bc06-99fb22dcb63c",
+    "applicant_id": "C4F487B2-93CB-843C-A4E1-F6A4C2D15E8C",
+    "applied_at": "2024-12-26",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "9d4c90da-9795-461d-84ff-9ad578e6e31e",
+      "start_date": "2026-11-14",
+      "end_date": "2028-04-02",
+      "contract_status": "terminated",
+      "created_at": "2025-03-18"
+    }
+  },
+  {
+    "_id": "b511825b-2df7-4172-be49-c63ab1a78327",
+    "listing_id": "118adb91-8e70-41c6-b904-25663801e2e5",
+    "applicant_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "applied_at": "2024-07-24",
+    "application_status": "declined"
+  },
+  {
+    "_id": "77495ea1-e140-40c5-a2c4-fc074ff24451",
+    "listing_id": "533cfcd4-1e12-414e-8ace-5ed27db0d1b0",
+    "applicant_id": "59F8DBC9-3D48-4AE5-A79C-2A73AE25C606",
+    "applied_at": "2026-08-08",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "e1360af5-ef83-4e4e-af77-2111338b9b3e",
+      "start_date": "2026-10-10",
+      "end_date": "2027-07-05",
+      "contract_status": "expired",
+      "created_at": "2026-10-05"
+    }
+  },
+  {
+    "_id": "911a62d9-8916-46ef-a370-ae104f0456db",
+    "listing_id": "632c1870-2861-42bc-b5cb-2d0989c7d5d0",
+    "applicant_id": "C854A30A-C155-F3E7-9881-B618B91286E9",
+    "applied_at": "2026-03-10",
+    "application_status": "declined"
+  },
+  {
+    "_id": "3ff0a650-01d5-4231-baa4-6bbd114bb309",
+    "listing_id": "197c3261-6145-40a6-ba65-860633420c70",
+    "applicant_id": "70C3BCBB-CC2F-A6A0-ED0D-28632C978D5A",
+    "applied_at": "2024-11-18",
+    "application_status": "declined"
+  },
+  {
+    "_id": "d944b0d9-ee69-4e24-9e97-5cc614e049a6",
+    "listing_id": "533cfcd4-1e12-414e-8ace-5ed27db0d1b0",
+    "applicant_id": "C4F487B2-93CB-843C-A4E1-F6A4C2D15E8C",
+    "applied_at": "2025-09-21",
+    "application_status": "declined"
+  },
+  {
+    "_id": "9bc66286-e768-438f-a174-b1e59ad73520",
+    "listing_id": "e622a1b6-b0eb-409c-80d7-b83944eef78c",
+    "applicant_id": "88A2C57D-E24B-8044-DEED-95C83FFB30FC",
+    "applied_at": "2025-11-18",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "4b3ce6f0-5ee2-46d3-a494-2114c35fe7f0",
+      "start_date": "2026-11-29",
+      "end_date": "2028-11-14",
+      "contract_status": "expired",
+      "created_at": "2026-07-07"
+    }
+  },
+  {
+    "_id": "87e5173d-9138-4805-84ad-5fc1c2b4756c",
+    "listing_id": "b90dd353-d56e-4296-a6b0-93bfb47bf044",
+    "applicant_id": "2E62D15F-202A-9639-6518-6D8C828E8FD7",
+    "applied_at": "2024-08-25",
+    "application_status": "declined"
+  },
+  {
+    "_id": "56d8b983-deec-40d7-85d3-9cf3c8d30f0b",
+    "listing_id": "2cd9efbb-dff9-441d-b50c-c47e841f7907",
+    "applicant_id": "2E62D15F-202A-9639-6518-6D8C828E8FD7",
+    "applied_at": "2026-11-10",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "dac117f5-c02f-4765-a634-7d705abff93b",
+      "start_date": "2026-11-17",
+      "end_date": "2027-11-20",
+      "contract_status": "active",
+      "created_at": "2026-11-13"
+    }
+  },
+  {
+    "_id": "57576186-b7cd-42b2-93f5-cf125b478894",
+    "listing_id": "45a054da-cc2d-443f-9c20-7eae730874c7",
+    "applicant_id": "2E56A6A8-8029-0A38-B110-7266E432B19B",
+    "applied_at": "2024-08-03",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "fb5d67fc-9b26-41f0-8ad2-41c16c2d74d7",
+      "start_date": "2026-02-21",
+      "end_date": "2028-06-01",
+      "contract_status": "expired",
+      "created_at": "2024-11-12"
+    }
+  },
+  {
+    "_id": "18332fa6-d8ba-4c99-b5e3-ceacb384dcae",
+    "listing_id": "a692f648-3042-4428-8077-4d46886234d0",
+    "applicant_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "applied_at": "2026-07-03",
+    "application_status": "declined"
+  },
+  {
+    "_id": "0e8b1a50-f00b-4163-b5dc-aa6bc8429d03",
+    "listing_id": "e74865b1-0eae-4e31-8817-ba7ca2f46748",
+    "applicant_id": "DC4944E2-192F-9C51-6515-936D549F3118",
+    "applied_at": "2026-05-26",
+    "application_status": "declined"
+  },
+  {
+    "_id": "7bbf5df2-2161-48cc-8d93-c5494c766a9a",
+    "listing_id": "197c3261-6145-40a6-ba65-860633420c70",
+    "applicant_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "applied_at": "2025-09-08",
+    "application_status": "pending"
+  },
+  {
+    "_id": "75473c58-290a-4326-a1cc-1ead4ec4495f",
+    "listing_id": "118adb91-8e70-41c6-b904-25663801e2e5",
+    "applicant_id": "70C3BCBB-CC2F-A6A0-ED0D-28632C978D5A",
+    "applied_at": "2026-01-29",
+    "application_status": "declined"
+  },
+  {
+    "_id": "7f435e8d-b371-45a8-8854-58efd3ad9fb7",
+    "listing_id": "c735a925-7c0d-4782-9022-e92e6f7417b9",
+    "applicant_id": "2AE7C59A-D1C2-297B-83CE-9FE51D16B928",
+    "applied_at": "2026-08-14",
+    "application_status": "declined"
+  },
+  {
+    "_id": "2fa2f5c8-3381-48ae-b189-58de190f8376",
+    "listing_id": "f1e6b7e6-a04f-43fc-93d0-c1c27f17576d",
+    "applicant_id": "C854A30A-C155-F3E7-9881-B618B91286E9",
+    "applied_at": "2025-08-17",
+    "application_status": "pending"
+  },
+  {
+    "_id": "033729c4-b7f7-42da-a05d-298737988faa",
+    "listing_id": "2cd9efbb-dff9-441d-b50c-c47e841f7907",
+    "applicant_id": "2E56A6A8-8029-0A38-B110-7266E432B19B",
+    "applied_at": "2025-08-09",
+    "application_status": "declined"
+  },
+  {
+    "_id": "65f4db59-9da3-4ca2-bea1-b76f851eff59",
+    "listing_id": "b3b170f2-85c4-4f61-9f28-feffff9d4a8e",
+    "applicant_id": "DDB1E9E5-89CC-FEB4-E5B3-284E25C190E9",
+    "applied_at": "2024-10-01",
+    "application_status": "declined"
+  },
+  {
+    "_id": "f445e735-fac2-4479-a711-093e6340ca2b",
+    "listing_id": "c9f0a8df-cf67-40f8-bb76-36ce5200a3cc",
+    "applicant_id": "2E56A6A8-8029-0A38-B110-7266E432B19B",
+    "applied_at": "2025-01-12",
+    "application_status": "pending"
+  },
+  {
+    "_id": "deef8c7d-46c1-473d-9c51-5b2e9cc6d441",
+    "listing_id": "d8abd120-f8d1-4d88-84f5-2574295d24a8",
+    "applicant_id": "188DB19A-93AF-451E-836D-5FA13B6928EE",
+    "applied_at": "2025-10-04",
+    "application_status": "declined"
+  },
+  {
+    "_id": "01de2099-4166-4193-aa76-6f152b1b1b72",
+    "listing_id": "d25c47f4-024a-40ac-a779-35b335bea078",
+    "applicant_id": "DDB1E9E5-89CC-FEB4-E5B3-284E25C190E9",
+    "applied_at": "2026-11-04",
+    "application_status": "declined"
+  },
+  {
+    "_id": "392f3157-043c-4785-9257-b67d6305fd09",
+    "listing_id": "2cd9efbb-dff9-441d-b50c-c47e841f7907",
+    "applicant_id": "2AE7C59A-D1C2-297B-83CE-9FE51D16B928",
+    "applied_at": "2024-08-23",
+    "application_status": "pending"
+  },
+  {
+    "_id": "143103cf-edf3-4796-a2b8-b8fbb59eb842",
+    "listing_id": "197c3261-6145-40a6-ba65-860633420c70",
+    "applicant_id": "2E62D15F-202A-9639-6518-6D8C828E8FD7",
+    "applied_at": "2025-03-15",
+    "application_status": "pending"
+  },
+  {
+    "_id": "3bfb1582-a894-440e-bf7b-4d8668e9dd40",
+    "listing_id": "db18a105-6a31-443d-8d24-1f18c59c550a",
+    "applicant_id": "2E62D15F-202A-9639-6518-6D8C828E8FD7",
+    "applied_at": "2026-01-01",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "fb53dd86-7d5f-410a-b10f-a6d7ee249cc1",
+      "start_date": "2026-07-23",
+      "end_date": "2027-01-28",
+      "contract_status": "terminated",
+      "created_at": "2026-06-30"
+    }
+  },
+  {
+    "_id": "9790a4d8-3f36-4357-b65d-b80d8650aae7",
+    "listing_id": "118adb91-8e70-41c6-b904-25663801e2e5",
+    "applicant_id": "C854A30A-C155-F3E7-9881-B618B91286E9",
+    "applied_at": "2025-10-26",
+    "application_status": "pending"
+  },
+  {
+    "_id": "2901bbe5-1d50-45ed-ae51-688cd2e51961",
+    "listing_id": "f1e6b7e6-a04f-43fc-93d0-c1c27f17576d",
+    "applicant_id": "188DB19A-93AF-451E-836D-5FA13B6928EE",
+    "applied_at": "2024-08-10",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "77ec6fdb-8bbf-4a3e-8690-ba8de10aa7d7",
+      "start_date": "2026-06-17",
+      "end_date": "2027-10-19",
+      "contract_status": "active",
+      "created_at": "2025-06-19"
+    }
+  },
+  {
+    "_id": "3c8a9369-5d9f-43e5-b35d-d82225bc7c4f",
+    "listing_id": "e13f040f-f07e-4f68-9410-944fe9622005",
+    "applicant_id": "2AE7C59A-D1C2-297B-83CE-9FE51D16B928",
+    "applied_at": "2026-10-14",
+    "application_status": "pending"
+  },
+  {
+    "_id": "1cf6a40d-8bcd-4376-ba30-cad9d77301d8",
+    "listing_id": "118adb91-8e70-41c6-b904-25663801e2e5",
+    "applicant_id": "E5A63F70-EFEE-5EF2-CD89-DE8230BDB71D",
+    "applied_at": "2024-04-30",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "c15e3e4f-0d1f-4540-be91-8cbe69f58b07",
+      "start_date": "2024-07-15",
+      "end_date": "2028-02-08",
+      "contract_status": "terminated",
+      "created_at": "2024-05-27"
+    }
+  },
+  {
+    "_id": "4650ff00-f00e-4c26-81f4-553fc501e71c",
+    "listing_id": "aaf7ca46-c48f-4240-a4e1-80d05b973977",
+    "applicant_id": "DC4944E2-192F-9C51-6515-936D549F3118",
+    "applied_at": "2024-05-09",
+    "application_status": "declined"
+  },
+  {
+    "_id": "4ac4f9b8-f305-4849-8ebc-b428305fb10f",
+    "listing_id": "e74865b1-0eae-4e31-8817-ba7ca2f46748",
+    "applicant_id": "4825BA87-580D-9ACE-564D-D2AA406EC733",
+    "applied_at": "2025-01-23",
+    "application_status": "pending"
+  },
+  {
+    "_id": "3853e91b-92d1-43ab-8a45-cf63412d84ce",
+    "listing_id": "52e3253f-50c4-47e3-80ff-2413608a3aeb",
+    "applicant_id": "F1795AC8-6F45-DA33-BCE2-014F93562A2D",
+    "applied_at": "2025-10-10",
+    "application_status": "approved",
+    "contract": {
+      "contract_id": "1bcfb71c-62b3-4a2a-85ed-07988d3ce049",
+      "start_date": "2026-05-06",
+      "end_date": "2028-03-26",
+      "contract_status": "active",
+      "created_at": "2026-05-03"
+    }
+  }
+]
