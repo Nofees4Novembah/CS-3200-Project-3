@@ -50,12 +50,7 @@ From the repository root:
 ```bash
 docker-compose up --build
 ```
-
-What this starts:
-
-- Web app on http://localhost:3000
-- Redis on port 6379
-- MongoDB on port 27017
+Go over to localhost:3000/ to interact with the application
 
 To stop:
 
