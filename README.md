@@ -67,3 +67,6 @@ docker-compose down -v
 ## AI Disclosure Policy
 
 AI was extensively used for this project to build the front-end and wire up the backend for the routers and and servers. It was also extensively used in the backend to seed mock data into mongodb and create helper functions in redis for UI standardization and redis autocaching. The core functionality however, the redis CRUD operations, as outlined from `Functionalities.md` was purely written by me to convey functional understanding of redis caching commands.
+
+
+[Video of Live Demo](https://youtu.be/VvFIY0I9kRc)
